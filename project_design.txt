@@ -1,0 +1,12 @@
+Matrix_Calculator
+
+PROJECT OVERVIEW:
+
+basic matrix operations:
+- addition
+- subtraction
+- multiplication
+- transposing
+
+future implementations:
+- linear equations solver
